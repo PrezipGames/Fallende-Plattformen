@@ -1,6 +1,6 @@
 # Fallende Plattformen in Unity 2D
 
-in diesem Video lernst du, verschiedene Möglichkeiten um fallende Plattformen in dein 2D Spiel einzubauen. 
+in diesem Video lernst du verschiedene Möglichkeiten, wie du fallende Plattformen in dein 2D Spiel einbauen kannst. 
 
 - [🎬 YT Tutorial]()
 - [💬 Joint unserem Discord Server](https://discord.gg/kusy4JQ4)
